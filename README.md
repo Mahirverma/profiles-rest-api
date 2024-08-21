@@ -1,2 +1,2 @@
-# Profile RESR API
+# Profile REST API
 Profiles REST API course code.
